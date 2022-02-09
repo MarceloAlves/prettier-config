@@ -1,0 +1,23 @@
+{
+  "name": "@marceloalves/prettier-config",
+  "version": "1.0.0",
+  "description": "One Prettier config to rule them all",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marceloalves/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "author": "Marcelo Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marceloalves/prettier-config/issues"
+  },
+  "homepage": "https://github.com/marceloalves/prettier-config#readme"
+}
